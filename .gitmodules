@@ -91,3 +91,8 @@
 	path = TRESCLOUD/odoo-clientes-especificos/BERACA
 	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
 	branch = 16.0
+
+[submodule "TRESCLOUD/purchase-and-imports"]
+	path = TRESCLOUD/purchase-and-imports
+	url = git@github.com:TRESCLOUD/purchase-and-imports.git
+	branch = 16.0
